@@ -1,4 +1,4 @@
-name: qemu-virgil
+name: qemu-ut-pdk
 adopt-info: qemu
 base: core18
 summary: QEMU as a snap, built from latest git with some fancy graphics extras
